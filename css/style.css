@@ -1,0 +1,54 @@
+/* header */
+header {
+    background-image: url("../img/pattern.png");
+    background-color: rgb(46, 141, 224);
+} 
+
+/* main */
+main{
+
+}
+.main-title {
+    font-size: 80px
+    ;
+}
+
+.booleaner {
+    color: blue;
+}
+
+.evidence {
+    background-color: yellow;
+}
+
+.tabella {
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+}
+
+/* footer */
+.footer{
+    color: darkgray;
+}
+
+.secondarycell {
+    background-color: aqua;
+    color: white;
+}
+
+.immaginefooter1 {
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 200px;
+    color: white;
+}
+
+.immaginefooter2 {
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 400px; 
+    color: white;
+}
